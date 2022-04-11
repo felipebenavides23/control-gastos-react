@@ -1,0 +1,4 @@
+
+limpieza de proyecto vite 
+
+eliminar app.css-logo.svg
